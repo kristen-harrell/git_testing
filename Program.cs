@@ -11,6 +11,7 @@ namespace github_testing
             Console.WriteLine("adding another interesting line");
             Console.WriteLine("first commit to new branch");
             Console.WriteLine("nothing is working");
+            Console.WriteLine("ok I think I got it working now");
         }
     }
 }
